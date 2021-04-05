@@ -171,7 +171,7 @@
                 <el-tooltip placement="top">
                   <div slot="content">
                     Bean调用示例：taskDemo.withParams('123456789')
-                    <br/>Class类调用示例：com.ruoyi.quartz.task.TaskDemo.withParams('123456789')
+                    <br/>Class类调用示例：com.luoran.quartz.task.TaskDemo.withParams('123456789')
                     <br/>参数说明：支持字符串，布尔类型，长整型，浮点型，整型
                   </div>
                   <i class="el-icon-question"></i>
